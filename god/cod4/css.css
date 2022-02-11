@@ -1,0 +1,51 @@
+
+@font-face{
+    font-family: bankgothic;
+    src: url(http://labs.r1c.pw/god/bankgothic.ttf)
+}
+
+@font-face{
+    font-family: BankGothicMedium;
+    src: url(http://labs.r1c.pw/god/BankGothicMedium.otf)
+}
+
+@font-face{
+    font-family: fira_mono_bold;
+    src: url(http://labs.r1c.pw/god/fira_mono_bold.ttf)
+}
+
+@font-face{
+    font-family: fira_mono_regular;
+    src: url(http://labs.r1c.pw/god/fira_mono_regular.ttf)
+}
+
+
+h1{
+    font-family: bankgothic;
+}
+
+a{
+    font-family: bankgothic;
+    color: rgba(174, 177, 174, 0.687);
+}
+
+h2{
+    font-family: fira_mono_regular;
+}
+
+br{
+    font-family: bankgothic;
+}
+
+td{
+    font-family: bankgothic;
+}
+
+th{
+    font-family: fira_mono_bold;
+}
+
+p{
+    font-family: BankGothicMedium;
+    color: rgba(255, 255, 255, 0.687);
+}
