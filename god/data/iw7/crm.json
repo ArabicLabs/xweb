@@ -1,9 +1,9 @@
 {
     "MP_MOTD": {
         "title": "Message of The Day",
-        "image": "image_motd_mp_cysp",
-        "popup_image": "image_motd_mp_cysp_small",
-        "content_long": "Welcome to IW7-Mod!\n\nJoin our Discord for news, updates and support.",
+        "image": "image_motd_mp_generic01",
+        "popup_image": "image_motd_mp_generic01_small",
+        "content_long": "Welcome to ^2IW7-Mod.^7 Have fun!\nJoin our Discord for news, updates and support.",
         "content_short": "Message of The Day",
         "action": "popup",
         "action_title": ""
@@ -18,5 +18,14 @@
             "action": "popup",
             "action_title": ""
         }
-    ]
+    ],
+    "CP_MOTD": {
+        "title": "Message of The Day",
+        "image": "image_motd_mp_zm",
+        "popup_image": "image_motd_mp_zm_small",
+        "content_long": "Welcome to ^2IW7-Mod.^7 Have fun!\nJoin our Discord for news, updates and support.",
+        "content_short": "Message of The Day",
+        "action": "popup",
+        "action_title": ""
+    }
 }
