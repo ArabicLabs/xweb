@@ -1,7 +1,7 @@
 {
     "title": "Message of The Day",
-    "image": "image_motd_main",
-    "popup_image": "image_motd_main_small",
+    "image": "image_motd_mp_announcer1",
+    "popup_image": "image_motd_mp_announcer1_small",
     "content_long": "Welcome to IW7-Mod!<br/><br/>Join our Discord for news, updates and support.",
     "content_short": "Message of The Day",
     "action": "popup",
